@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_seanix_website=self.webpackChunk_seanix_website||[]).push([[636],{8412:function(s){s.exports=JSON.parse('{"allTagsPath":"/seanix-website/blog/tags","name":"docusaurus","count":4,"permalink":"/seanix-website/blog/tags/docusaurus"}')}}]);

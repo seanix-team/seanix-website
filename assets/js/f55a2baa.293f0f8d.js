@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_seanix_website=self.webpackChunk_seanix_website||[]).push([[430],{3769:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"default"}}')}}]);

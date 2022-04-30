@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_seanix_website=self.webpackChunk_seanix_website||[]).push([[373],{887:function(e){e.exports=JSON.parse('{"permalink":"/seanix-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
