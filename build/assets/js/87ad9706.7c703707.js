@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_seanix_website=self.webpackChunk_seanix_website||[]).push([[664],{5460:function(e){e.exports=JSON.parse('{"allTagsPath":"/seanix-website/blog/tags","name":"facebook","count":1,"permalink":"/seanix-website/blog/tags/facebook"}')}}]);
