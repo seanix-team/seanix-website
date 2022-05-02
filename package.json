@@ -13,7 +13,9 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "write-heading-ids": "docusaurus write-heading-ids",
+		"subBuild": "git subtree pull --prefix build origin gh-pages",
+		"forceSubBuild": "git push origin `git subtree split --prefix build main`:gh-pages --force"
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.18",
